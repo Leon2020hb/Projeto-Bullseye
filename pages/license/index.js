@@ -8,7 +8,7 @@
  */
 
 // (*) Reload prevent
-loadedScript['license'] = 'true';
+loadedScript['license'] = true;
 
 function runLicense() {
 

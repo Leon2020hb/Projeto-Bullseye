@@ -8,7 +8,7 @@
  */
 
 // (*) Reload prevent
-loadedScript['about'] = 'true';
+loadedScript['about'] = true;
 
 function runAbout() {
 

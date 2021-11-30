@@ -8,7 +8,7 @@
  */
 
 // (*) Reload prevent
-loadedScript['view'] = 'true';
+loadedScript['view'] = true;
 
 function runView() {
 

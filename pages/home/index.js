@@ -8,7 +8,7 @@
  */
 
 // (*) Reload prevent
-loadedScript['home'] = 'true';
+loadedScript['home'] = true;
 
 function runHome() {
 

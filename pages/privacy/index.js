@@ -8,7 +8,7 @@
  */
 
 // (*) Reload prevent
-loadedScript['privacy'] = 'true';
+loadedScript['privacy'] = true;
 
 function runPrivacy() {
 

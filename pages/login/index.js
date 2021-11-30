@@ -8,7 +8,7 @@
  */
 
 // (*) Reload prevent
-loadedScript['login'] = 'true';
+loadedScript['login'] = true;
 
 function runLogin() {
 
